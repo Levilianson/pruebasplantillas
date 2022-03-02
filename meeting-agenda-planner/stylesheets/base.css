@@ -1,0 +1,28 @@
+#dayViewsContainer {
+    border: black solid 1px;
+}
+
+#addDayButtonDiv{
+   margin-top:15px;
+}
+
+.activitiesDiv {
+    border: solid black 1px;
+    min-height: 100px;
+}
+.activitiesDiv.over {
+    border: dashed red 2px;
+}
+
+#overallDayContainer {
+    display: table-row;
+    overflow: hidden;
+}
+
+.header-p {
+    text-align: center;
+    font-size: 32pt;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border-bottom: grey solid;
+}

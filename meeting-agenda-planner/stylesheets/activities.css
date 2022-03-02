@@ -1,0 +1,31 @@
+/**
+ * Activity colors
+ */
+
+/** TODO: merge activites.css with parked-activities.css **/
+.parked-activity {
+    color: white;
+    text-shadow: 1px 1px #777777;
+}
+.day-activity {
+    color: white;
+    text-shadow: 1px 1px #777777;
+}
+
+.activity-presentation {
+    background-color: #D9534F;
+}
+.activity-group-work {
+    background-color: #5CB85C;
+}
+.activity-discussion {
+    background-color: #F0AD4E;
+}
+.activity-break {
+    background-color: #5BC0DE;
+}
+
+/* TODO: where does this belong to? */
+.table-view-custom {
+    display:inline;
+}
